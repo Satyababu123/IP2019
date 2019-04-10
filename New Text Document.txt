@@ -33,11 +33,9 @@ D:\SES_17\AppServer\siebsrvr\BIN>srvrmgr -g ctsc00979508001.cts.com -e SBA_82 -u
 D:\SES_17\AppServer\siebsrvr\BIN>srvrmgr -g ctsc00979508001.cts.com -e SBA_82 -u SADMIN -p SADMIN
 D:\SES_17\AppServer\siebsrvr\BIN>srvrmgr -g ctsc00979508001.cts.com -e SBA_82 -u SADMIN -p SADMIN -s SBBL_POC
 
-
-
 https://desktop.github.com/
 
 
 559411
 
-
+sadfsafsafasfasfafdsaf
