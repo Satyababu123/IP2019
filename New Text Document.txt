@@ -1,0 +1,43 @@
+https://ctsc00979508001.cts.com:9001/siebel/smc
+https://ctsc00979508001.cts.com:9001/siebel/app/loyalty/enu?
+https://ctsc00979508001.cts.com:9001/siebel/app/webtools/enu
+New user: CTS12345. Satya
+
+
+SR 3-19609357101 : 
+
+sys/Password-1@ORCL as SYSDBA 
+
+SADMIN/SADMIN
+SIEBEL/SIEBEL
+GUESTCST/GUESTCST
+=================
+DB host name: ctsc00979508001.cts.com
+db port number: 1521
+db Service Name: ord.cts.com
+Security Profile: SiebelSec
+Registry Port: 8082
+Registry user Name: SADMIN/SADMIN123
+HTTPS Redirect Port:443
+HTTP Connection Port: 8081
+Shutdown Port: 8005
+
+Siebel Tools Data Source Name: ServerDataSrc
+ODBC Datga Source Name: SBA_82_DSN
+Index Table Space Name: S_INDEX
+Table Space Name: S_DATA
+
+ss
+--------------------------------------------------------------------------------------
+D:\SES_17\AppServer\siebsrvr\BIN>srvrmgr -g ctsc00979508001.cts.com -e SBA_82 -u SADMIN -p SADMIN -s SBBL_POC
+D:\SES_17\AppServer\siebsrvr\BIN>srvrmgr -g ctsc00979508001.cts.com -e SBA_82 -u SADMIN -p SADMIN
+D:\SES_17\AppServer\siebsrvr\BIN>srvrmgr -g ctsc00979508001.cts.com -e SBA_82 -u SADMIN -p SADMIN -s SBBL_POC
+
+
+
+https://desktop.github.com/
+
+
+559411
+
+
